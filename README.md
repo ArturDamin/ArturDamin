@@ -1,4 +1,4 @@
-<h2 align="center"><b>Oi, eu sou o Artur. Trabalho na área de tecnologia e estudo de programação.</b></h2>
+<h2 align="center"><b>Oi, eu sou o Artur. Trabalho na área de tecnologia e estudo programação.</b></h2>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
